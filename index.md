@@ -1,3 +1,34 @@
+# ¡Bienvenidos a Pijama Games!
+
+## Quiénes somos
+
+Somos un equipo joven y apasionado dedicado al desarrollo de videojuegos. Hemos estudiado juntos diseño de videojuegos y participado en varias Game Jams. Estamos creando nuestro primer videojuego comercial, y aspiramos, no solo que sea divertido, sino que aporte un granito de arena a combatir los problemas medioambientales.
+
+## Juegos
+
+### Nelu's Exile (nombre provisional)
+
+Nelu's Exile es un juego para navegador que estará disponible para ordenador y móviles a través de itch.io. Se trata de una aventura para un jugador en la que tomaremos el papel de Nelu, una flor que ha cobrado consciencia. Acompañada de su pueblo, se asienta en el Amazonas, y tendrá que enfrentarse tanto a la fauna feroz de la jungla como al impacto del ser humano por la deforestación. 
+
+## Modelo de negocio
+
+Creemos que cualquier persona que quiera jugar a nuestros juegos debería poder, sin importar cuánto puedan pagar. Por esto, nuestros juegos están disponibles en itch.io con la opción "Paga cuanto quieras". Además, colaboramos con ONGs como Amazon Watch.
+
+## Miembros del equipo
+
+### Pedro Casas
+
+### Iván Sanandrés
+
+### Juan Manuel Carretero
+
+### Alejandra Casado
+
+### Martín Ariza
+
+### Adrián Vaquero
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PijamaGames/portfolio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
